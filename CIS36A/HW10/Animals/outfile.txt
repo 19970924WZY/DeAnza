@@ -1,0 +1,6 @@
+Animals at out farm:
+5 sheep
+3 donkeys
+8 goats
+2 geese
+4 cats
